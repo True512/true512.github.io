@@ -1,4 +1,4 @@
-# Many 2048
+# Many 512
 
 Made just for fun. [Play it here!](http://true2048.github.io/)
 
